@@ -1,16 +1,14 @@
-## Hi there 👋
+# Nikolai Pismennyi's Personal Page
 
-<!--
-**kapis/kapis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi, I'm Nikolai Pismennyi! I'm a Data Scientist / Machine Learning Engineer. I have over 3 years of production experience with ML and LLMs in Python. My skills include both modern LLM stack and classical ML (focusing on time-series forecasting). Strong SQL skills, and good familiarity with Spark.
 
-Here are some ideas to get you started:
+## My Projects
+Here are some of the cool projects I've been working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Project 1: TBD
+
+TBD
+
+## Contact
+- [**LinkedIn**](https://www.linkedin.com/in/nikolai-pismennyi/)
