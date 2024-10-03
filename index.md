@@ -12,6 +12,3 @@ Here are some of the cool projects I've been working on:
 ### Project 1: TBD
 
 TBD
-
-## Contact
-- [**LinkedIn**](https://www.linkedin.com/in/nikolai-pismennyi/)
