@@ -1,4 +1,9 @@
-# Nikolai Pismennyi's Personal Page
+---
+layout: page
+title: Nikolai Pismennyi
+tagline: Personal Page
+#description: Minimal tutorial on making a simple website with GitHub Pages
+---
 
 ## About Me
 Hi, I'm Nikolai Pismennyi! I'm a Data Scientist / Machine Learning Engineer. I have over 3 years of production experience with ML and LLMs in Python. My skills include both modern LLM stack and classical ML (focusing on time-series forecasting). Strong SQL skills, and good familiarity with Spark.
