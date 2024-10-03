@@ -1,5 +1,15 @@
 theme: minima
 
+header_pages:
+  - index.md
+
+site.title: "Nikolai Pismennyi"
+
+author:
+  name: "Nikolai Pismennyi"
+  #email: "john.smith@foobar.com"
+
+
 minima:
   skin: auto
   social_links:
