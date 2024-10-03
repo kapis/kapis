@@ -1,13 +1,16 @@
-theme: minima
+title: Nikolai Pismennyi
+author:
+  name: Nikolai Pismennyi
+  email: npismenniy@gmail.com
+
+description: >
+  Personal website
+
+remote_theme: jekyll/minima
+#theme: minima
 
 header_pages:
   - index.md
-
-site.title: "Nikolai Pismennyi"
-
-author:
-  name: "Nikolai Pismennyi"
-  #email: "john.smith@foobar.com"
 
 
 minima:
