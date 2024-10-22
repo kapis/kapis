@@ -3,4 +3,4 @@ Hi, I'm Nikolai Pismennyi! I'm a Data Scientist / Machine Learning Engineer. My 
 
 ## Personal website
 
-[pismennyi.com](pismennyi.com)
+[pismennyi.com](https://pismennyi.com/)
